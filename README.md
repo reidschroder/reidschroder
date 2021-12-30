@@ -7,7 +7,7 @@
 I am Reid Schroder, currently studying web development at Vanderbilt University with hopes of obtaining a career in software development or engineering.    
 
   
-  <img align="right" alt="GIF" src="https://github.com/reidschroder/reidschroder/blob/main/lofi-coding.gif" width="408" height="318" />
+  <img align="right" alt="GIF" src="https://github.com/reidschroder/reidschroder/blob/main/lofi-coding.gif" width="500" height="318" />
   
 
 **Talking about Personal Stuff:**
