@@ -1,5 +1,14 @@
-### Hi there 👋
+<h2 align="center"> Hi there, I'm Reid Schroder 👋<h2>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${reidschroder}.${reidschroder}
+  
+  
+ <h2>About me</h2>
 
+I am Reid Schroder, currently studying web development at Vanderbilt University with hopes of obtaining a career in software development or engineering.    
+
+  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reidschroder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **reidschroder/reidschroder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
