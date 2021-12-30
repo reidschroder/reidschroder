@@ -10,9 +10,10 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
   <img align="right" alt="GIF" src="https://github.com/reidschroder/reidschroder/blob/main/lofi-coding.gif" width="500" height="318" />
   
 
-**Talking about Personal Stuff:**
+**Personal Stuff:**
 
-- 🚀 I’m currently learning HTML, CSS, JavaScript, & Bootstrap;
+- 🚀 I’m currently learning HTML, CSS, JavaScript, & Bootstrap; 
+- I graduated from the University of Cincinnati with a degree in Electronic Media
 - 💬 Ask me about anything, I am happy to help 
   (I'll probably end up asking you more questions though);
 - 📫 How to reach me: reidschroder2m@gmail.com;
