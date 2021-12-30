@@ -20,6 +20,7 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
 - 💬 Ask me about anything, I am happy to help 
   (I'll probably end up asking you more questions)
 - 📫 How to reach me: reidschroder2m@gmail.com
+- :round_pushpin: :us: 
 
 
   
