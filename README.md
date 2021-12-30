@@ -10,7 +10,7 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
   <img align="right" alt="GIF" src="https://github.com/reidschroder/reidschroder/blob/main/lofi-coding.gif" width="500" height="318" />
   
 
-**Personal Stuff:**
+**Personal Things:**
 
 - :movie_camera: I'm a video producer turned coder, so problem solving is my specialty. 
 - People can be difficult, code is straight forward. Now instead of solving other people's problems for them,
