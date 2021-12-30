@@ -12,11 +12,14 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
 
 **Personal Stuff:**
 
+- :movie_camera: I'm a video producer turned coder, so problem solving is my specialty. 
+- People are difficult, code is straight forward. Now instead of solving other people's problems for them,
+  I solve problems on the internet.
 - 🚀 I’m currently learning HTML, CSS, JavaScript, & Bootstrap; 
-- I graduated from the University of Cincinnati with a degree in Electronic Media
+- I graduated from the University of Cincinnati with a degree in Electronic Media.
 - 💬 Ask me about anything, I am happy to help 
-  (I'll probably end up asking you more questions though);
-- 📫 How to reach me: reidschroder2m@gmail.com;
+  (I'll probably end up asking you more questions)
+- 📫 How to reach me: reidschroder2m@gmail.com
 
 
   
