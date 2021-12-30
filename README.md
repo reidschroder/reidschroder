@@ -7,6 +7,18 @@
 I am Reid Schroder, currently studying web development at Vanderbilt University with hopes of obtaining a career in software development or engineering.    
 
   
+  <img align="right" alt="GIF" src="https://github.com/reidschroder/reidschroder/blob/master/lofi-coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuff:**
+
+- 🚀 I’m currently learning HTML, CSS, JavaScript, & Bootstrap;
+- 💬 Ask me about anything, I am happy to help 
+  (I'll probably end up asking you more questions though);
+- 📫 How to reach me: reidschroder2m@gmail.com;
+
+
+  
 <p>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reidschroder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidschroder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
