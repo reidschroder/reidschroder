@@ -7,9 +7,10 @@
 I am Reid Schroder, currently studying web development at Vanderbilt University with hopes of obtaining a career in software development or engineering.    
 
   
-  
+<p>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reidschroder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reidschroder&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </p>
 <!--
 **reidschroder/reidschroder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
