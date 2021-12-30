@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Reid Schroder 👋<h2>
+<h2 align="center"> Thanks for stopping by, I'm Reid Schroder 👋<h2>
 
   
   
