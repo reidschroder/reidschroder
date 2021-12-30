@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Reid Schroder 👋<h2>
-![](https://visitor-badge.glitch.me/badge?page_id=reidschroder.reidschroder)
+![](https://visitor-badge.glitch.me/badge?page_id=${reidschroder}.${reidschroder})
   
   
  <h2>About me</h2>
