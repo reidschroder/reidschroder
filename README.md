@@ -13,7 +13,7 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
 **Personal Stuff:**
 
 - :movie_camera: I'm a video producer turned coder, so problem solving is my specialty. 
-- People are difficult, code is straight forward. Now instead of solving other people's problems for them,
+- People can be difficult, code is straight forward. Now instead of solving other people's problems for them,
   I solve problems on the internet.
 - 🚀 I’m currently learning HTML, CSS, JavaScript, & Bootstrap. 
 - I graduated from the University of Cincinnati with a degree in Electronic Media.
