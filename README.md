@@ -17,7 +17,7 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
 - I graduated from the University of Cincinnati with a degree in Electronic Media.
 - 💬 Ask me about anything, I am happy to help. 
   (I'll probably end up asking you more questions.)
-- 📫 How to reach me: reidschroder2m@gmail.com
+- 📫 How to reach me: reidschroder2@gmail.com
 - :round_pushpin: :us: 
 
 
