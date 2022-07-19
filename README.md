@@ -13,8 +13,8 @@ I am Reid Schroder, currently studying web development at Vanderbilt University 
 **Personal Things:**
 
 - :movie_camera: I'm a video producer turned coder, so problem solving is my specialty. 
-- 🚀 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Node.JS, Express.JS, and SQL. 
-- I graduated from the University of Cincinnati with a degree in Electronic Media.
+- 🚀 I’m a React Developer looking to explore other methods of coding. 
+- I graduated from the University of Cincinnati with a degree in Electronic Media and a graduate of Vanderbilt University with a certificate in Full Stack Web Development.
 - 💬 Ask me about anything, I am happy to help. 
   (I'll probably end up asking you more questions.)
 - 📫 How to reach me: reidschroder2@gmail.com
