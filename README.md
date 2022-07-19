@@ -4,7 +4,7 @@
   
  <h2>About me</h2>
 
-I am Reid Schroder, currently studying web development at Vanderbilt University with hopes of obtaining a career in software development or engineering.    
+I am Reid Schroder, a recent graduate from Vanderbilt University with ambitions of starting a career in software development or engineering.    
 
   
   <img align="right" alt="GIF" src="https://github.com/reidschroder/reidschroder/blob/main/lofi-coding.gif" width="500" height="318" />
